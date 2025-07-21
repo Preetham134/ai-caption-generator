@@ -36,7 +36,7 @@ This project is a **mood-aware AI caption recommendation engine** that takes an 
    public_url = ngrok.connect(8501)
    print(public_url)
    ```
-6. Go to the URL and upload an image and enjoy 5 mood-rich, hashtagged captions!
+6. Go to the URL, upload an image and enjoy 5 mood-rich, hashtagged captions!
 
 ---
 
