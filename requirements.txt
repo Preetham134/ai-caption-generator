@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+sentencepiece
+langchain
+huggingface_hub
+scikit-learn
+nltk
+pyngrok
+langchain_community
