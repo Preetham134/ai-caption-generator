@@ -22,9 +22,9 @@ This project is a **mood-aware AI caption recommendation engine** that takes an 
    !pip install -r requirements.txt
    ```
 3. Fill in your hugging face token in app.py
-  ```python
-  token = "your_huggingface_token"
-  ```
+   ```python
+   token = "your_huggingface_token"
+   ```
 4. Run the Streamlit app in the background:
    ```python
    !streamlit run app.py &>/content/logs.txt &
